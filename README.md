@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SACHINGITHUB24
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently working on making a full backend project online Music Collborative App.Before making this project I have learneed full Backend Development.
+- 🌱 Searching for a problem statement or researching and making my skills to next level by making new things.
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me using my website (https://sachinmehta.netlify.app)
 - 😄 Pronouns: ...
